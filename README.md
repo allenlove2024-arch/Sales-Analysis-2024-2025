@@ -40,4 +40,4 @@ Interactive Power BI dashboard analyzing sales performance across 2024 and 2025 
 ## 👤 About Me
 Data Analyst with a background in customer success, data validation, and reporting. Skilled in SQL, Power BI, Excel, Tableau, and R, with a focus on turning raw sales data into clear, actionable business insights.
 
-📍 Lagos, Nigeria | 🔗 [LinkedIn](https://linkedin.com/in/ejikemekingsley) | 📧 nwokeorahejikeme@gmail.com
+📍 Lagos, Nigeria  | 📧 nwokeorahejikeme@gmail.com
